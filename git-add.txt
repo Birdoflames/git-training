@@ -1,0 +1,14 @@
+git add
+
+git add adds the files to the staging area which are taken as an argument or the file type taken in the argument, uses *.type 
+
+git add -A / git add .
+
+adds all files to the staging area
+
+git add -p / git add --patch
+
+adds a part of file by interactivly letting you choose which changed parts "hunks" to add to the staging area.
+
+
+
